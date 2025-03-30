@@ -1,6 +1,6 @@
 function Dice6() {
     return (
-        <div className="w-18 h-18 bg-amber-300 m-3 p-0.5">
+        <div className="w-21 h-20 border-black border-2 rounded-2xl m-3 p-1.5 inset-shadow-black inset-shadow-sm shadow-black shadow-lg">
             <div className="w-17 h-5 flex justify-between">
                 <div className="rounded-[50%] bg-black size-5"></div>
                 <div className="rounded-[50%] bg-black size-5"></div>
