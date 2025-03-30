@@ -12,7 +12,12 @@ import Dice6 from "./Dices/Dice6"
 function Dice({setStatus}) {
     return (
         <>
-
+        <Dice1/>
+        <Dice2/>
+        <Dice3/>
+        <Dice4/>
+        <Dice5/>
+        <Dice6/>
             
             
         </>
